@@ -1,5 +1,4 @@
 ---
 title: Welcome Art of Faith Finess Clothing
-
-## Link to Instagram Page
 ---
+## Link to Instagram Page
