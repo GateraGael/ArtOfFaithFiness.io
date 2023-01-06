@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Faith finesse graphics started my brand to provide dope visuals to anybody that relates with battling adversity beating the odds through faith/finesse providing another form of representing Confidence within .
+
+Official Drip can be purchased at [ETSY SHOP AOFFGraphics](https://www.etsy.com/shop/Aoffgraphics?coupon=AOFFSK2PROMO)
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
