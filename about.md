@@ -12,4 +12,4 @@ Official Drip can be purchased at [ETSY SHOP AOFFGraphics](https://www.etsy.com/
 
 <!--![alt text](./assets/images/main_logo.jpg){height=400px width=500px} -->
 
-<img src="assets/images/main_logo.jpg" width="600">
+<img src="assets/images/main_logo.jpg" width="600" class="center">
