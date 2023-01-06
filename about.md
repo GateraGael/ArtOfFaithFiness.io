@@ -10,4 +10,6 @@ Faith finesse graphics started my brand to provide dope visuals to anybody that 
 
 Official Drip can be purchased at [ETSY SHOP AOFFGraphics](https://www.etsy.com/shop/Aoffgraphics?coupon=AOFFSK2PROMO)
 
-![alt text](./assets/images/main_logo.jpg){height=400px width=500px}
+<!--![alt text](./assets/images/main_logo.jpg){height=400px width=500px} -->
+
+<img src="assets/images/main_logo.jpg" width="200">
