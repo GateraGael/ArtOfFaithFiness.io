@@ -7,3 +7,5 @@
 #
 layout: home
 ---
+
+![](./assets/images/main_logo.jpg)
