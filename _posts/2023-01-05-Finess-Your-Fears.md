@@ -3,7 +3,7 @@ layout: post
 ---
 
 
-![](./assets/images/FYF_shirt.jpg)
+![](../assets/images/FYF_shirt.jpg)
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
