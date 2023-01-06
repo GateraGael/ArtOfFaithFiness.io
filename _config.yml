@@ -1,4 +1,4 @@
-title: Art Of Faith Finess
+title: Art of Faith Finess (AOFF)
 author:
   name: Deshawn Hicks
   email: your-email@domain.com
@@ -17,12 +17,7 @@ minima:
   # generate social links in footer
   social_links:
     - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
-    - { platform: flickr,         user_url: "https://www.flickr.com/photos/jekyll" }
-    - { platform: github,         user_url: "https://github.com/jekyll/minima" }
-    - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
     - { platform: instagram,      user_url: "https://www.instagram.com/art_of_faithfinessefitness/" }
-    - { platform: telegram,       user_url: "https://t.me/jekyll" }
-    - { platform: twitter,        user_url: "https://twitter.com/jekyllrb" }
     - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
 
 # If you want to link only specific pages in your header, uncomment
