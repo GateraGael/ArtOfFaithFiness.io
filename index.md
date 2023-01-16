@@ -9,3 +9,51 @@ layout: home
 ---
 
 ![](./assets/images/main_logo.jpg)
+
+
+# Finess Your Fears
+## Inspiration
+
+## Design
+![](./assets/images/FinessYourFears.jpg)
+
+## Shirt
+![](./assets/images/FYF_shirt.jpg)
+
+
+
+# No Rookie
+## Inspiration
+
+## Design
+
+## Shirt
+![](./assets/images/no_rookie_small.jpg)
+
+
+# Beat The Odds
+
+## Inspiration
+
+## Design
+
+## Shirt
+
+
+# Active Wear
+
+## Inspiration
+
+## Design
+
+## Shirt
+![](./assets/images/active_wear.jpg)
+
+# Fitness Gear
+
+## Inspiration
+
+## Design
+
+## Shirt
+![](./assets/images/fitness_gear.jpg)
